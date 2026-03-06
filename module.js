@@ -1,0 +1,31 @@
+module.exports = {
+  modul: {
+    axios: require('axios'),
+    baileys: require('baileys'),
+    chalk: require('chalk'),
+    cheerio: require('cheerio'),
+    Crypto: require('crypto'), 
+    fs: require('fs'),
+    fsx: require('fs-extra'),
+    keyeddb: require('baileys'),
+    moment: require('moment-timezone'),
+    path: require('path'),
+    FileType: require('file-type'),
+    pino: require('pino'),
+    process: require('process'),
+    parsems: require('parse-ms'),
+    PhoneNumber: require('awesome-phonenumber'),
+    util: require('util'),
+    Utils: require('baileys/lib/Utils'),
+    os: require('os'),
+    ms: require('ms'),
+    readline: require('readline'),
+    yargs: require('yargs/yargs'),
+    lodash: require('lodash'),
+    NodeCache: require('node-cache'),
+    figlet: require('figlet'),
+    gradient: require('gradient-string'),
+    childProcess: require('child_process'),
+    
+  }
+}
