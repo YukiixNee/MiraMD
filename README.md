@@ -3,7 +3,7 @@
 # 🤖 MiraMD
 **WhatsApp Bot berbasis [Baileys (Wileys)](https://github.com/NaufalYupra) — Node.js**
 
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?style=flat-square&logo=node.js)](https://nodejs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?style=flat-square&logo=node.js)](https://nodejs.org)
 [![Baileys](https://img.shields.io/badge/Baileys-Wileys-blue?style=flat-square)](https://github.com/whiskeysockets/baileys)
 [![License](https://img.shields.io/badge/License-ISC-yellow?style=flat-square)](LICENSE)
 [![Author](https://img.shields.io/badge/Author-ShiinjiZX-purple?style=flat-square)](https://github.com/ShiinjiZX)
@@ -28,8 +28,6 @@
 
 - 📦 **Plugin System** — Mendukung `.js` dan `.mjs` (ESM), hot-reload tanpa restart
 - 🎵 **Embedded Music** — Setiap pesan keluar menyertakan info bot via WA music annotation
-- 🖼️ **Album Message** — Kirim banyak foto/video sekaligus dalam satu album
-- 🔘 **Interactive Button** — Kirim pesan dengan tombol interaktif (native flow)
 - 🔄 **LID Resolution** — Auto-resolve mention `@lid` ke nomor WA asli di grup
 - 💾 **Dual Database** — Mendukung JSON lokal atau MongoDB
 - 🛡️ **Permission System** — Owner, Premium, Admin, Bot Admin
@@ -86,7 +84,7 @@ MiraMD/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/ShiinjiZX/MiraMD.git
+git clone https://github.com/YukiixNee/MiraMD.git
 cd MiraMD
 
 # 2. Install dependencies
